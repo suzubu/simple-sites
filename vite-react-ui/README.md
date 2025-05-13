@@ -17,13 +17,17 @@ This template is intentionally lightweight — perfect for when you want to prot
 ## 🚀 Getting Started
 
 ```bash
-# 1. Install dependencies
+# 1. Scaffold the template (creates a new folder called vite-react-ui)
+npx degit suzubu/template-hub/vite-react-ui
+
+# 2. Move into the project folder
+cd vite-react-ui
+
+# 3. Install dependencies
 npm install
 
-# 2. Start dev server
+# 4. Start the development server
 npm run dev
-
-# 3. Open http://localhost:5173
 ```
 
 ## 🗂️ Best For / Example Use Cases
