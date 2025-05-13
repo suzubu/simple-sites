@@ -1,0 +1,21 @@
+/* Import Fonts */
+
+@import "tailwindcss";
+
+/* Root Variables */
+
+/* Theme Variables */
+@theme {
+}
+
+/* Base Styles */
+@layer base {
+}
+
+/* Utility Classes */
+@layer utilities {
+}
+
+/* Component Classes */
+@layer components {
+}
