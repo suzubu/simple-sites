@@ -15,14 +15,17 @@ A minimal, fast-starting environment for experimenting with Three.js using Vite 
 ## 🚀 Getting Started
 
 ```bash
-# 1. Install dependencies
+# 1. Scaffold this template
+npx degit suzubu/template-hub/threejs-playground
+
+# 2. Move into your new project
+cd threejs-playground
+
+# 3. Install dependencies
 npm install
 
-# 2. Start dev server
+# 4. Start the development server
 npm run dev
-
-# 3. Open in browser
-http://localhost:5173
 ```
 
 ---
