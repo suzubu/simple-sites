@@ -18,10 +18,10 @@ This template is intentionally lightweight — perfect for when you want to prot
 
 ```bash
 # 1. Scaffold the template (creates a new folder called vite-react-ui)
-npx degit suzubu/template-hub/vite-react-ui
+npx degit suzubu/template-hub/vite-react-ui _new-project-name_
 
 # 2. Move into the project folder
-cd vite-react-ui
+cd _new-project-name_
 
 # 3. Install dependencies
 npm install
