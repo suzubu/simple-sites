@@ -17,11 +17,11 @@ This template is intentionally lightweight — perfect for when you want to prot
 ## 🚀 Getting Started
 
 ```bash
-# 1. Scaffold the template (create a new project name)
-npx degit suzubu/template-hub/vite-react-ui _new-project-name_
+# 1. Scaffold the template (create a <i>new project name</i>)
+npx degit suzubu/template-hub/vite-react-ui <i>new-project-name</i>
 
 # 2. Move into the project folder
-cd _new-project-name_
+cd <i>new-project-name</i>
 
 # 3. Install dependencies
 npm install
